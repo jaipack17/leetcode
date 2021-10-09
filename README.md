@@ -4,5 +4,4 @@ Problems are categorized according to their difficulty levels on leetcode.
 * easy
 * medium 
 * hard 
-<br/>
 To find a solution, click Go To File, type the problem number and see if any results pop up!
